@@ -40,6 +40,4 @@
         {
             Console.WriteLine("Niet alle woorden correct geraden.");
         }
-
-        Console.ReadLine();
     }
