@@ -36,7 +36,3 @@ Console.WriteLine("Voer een postcode in:");
                 Console.WriteLine("De postcode is onjuist.");
             }
         }
-        else
-        {
-            Console.WriteLine("De postcode is onjuist.");
-        }
